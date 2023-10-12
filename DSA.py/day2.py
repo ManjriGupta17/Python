@@ -1,6 +1,6 @@
 #ARRAY AND LIST
 #it defines an obj type which can efficently represent on array of basic vlues -->floating,integer
-from array import *
+from array import*
 a1=array('i',[23,56,11,90])
 type(a1)
 print(a1)
